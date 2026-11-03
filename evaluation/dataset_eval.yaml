@@ -1,0 +1,8 @@
+dataset: 
+  # Update IMAGE_DIR to your local M2E2 image folder.
+  IMAGE_DIR: xxx/datasets/m2e2_rawdata/image/image
+  IMAGE: xxx/datasets/m2e2_rawdata/m2e2_annotations/image_only_event.json
+  TEXT: xxx/datasets/m2e2_rawdata/m2e2_annotations/text_only_event.json
+  # Multimodal test set shipped in this repo.
+  MULTI: ../dataset_path/m2e2_multimodal.json
+  ERRORS: ./errors

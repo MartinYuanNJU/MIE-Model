@@ -1,0 +1,12 @@
+dataset: 
+  ACE_TRAIN_RAW: xxx/datasets/ACE2005/output/train.json
+  ACE_TRAIN: xxx/llava/dataset_path/ACE2005_train.json
+  SWIG_TRAIN_RAW: xxx/datasets/SWiG_jsons/train.json
+  SWIG_TRAIN: xxx/llava/dataset_path/swig_train.json
+  SWIG_ONTOLOGY: xxx/datasets/SWiG_jsons/imsitu_space.json
+  SWIG_IMAGE_DIR: xxx/datasets/images_512
+  FINAL_TRAIN: xxx/llava/dataset_path/final_train.json
+  M2E2_TEXT_MULTI: xxx/datasets/m2e2_rawdata/m2e2_annotations/text_multimedia_event.json
+  M2E2_IMAGE_MULTI: xxx/datasets/m2e2_rawdata/m2e2_annotations/image_multimedia_event.json
+  M2E2_CROSSMEDIA: xxx/datasets/m2e2_rawdata/m2e2_annotations/crossmedia_coref.txt
+  M2E2_MULTI: xxx/llava/dataset_path/m2e2_multimodal.json
